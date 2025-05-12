@@ -1,0 +1,6 @@
+com\example\demo\controller\HelloController.class
+com\example\demo\DemoApplication.class
+com\example\demo\service\WebScrapingService.class
+com\example\demo\model\ScrapedData.class
+com\example\demo\controller\WebScrapingController.class
+com\example\demo\config\OpenApiConfig.class
